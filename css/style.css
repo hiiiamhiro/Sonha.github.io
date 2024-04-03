@@ -1,0 +1,12 @@
+h1 {
+    text-transform: uppercase;
+}
+img {
+    width: 400px;
+    height: auto;
+}
+.sexy {
+    box-shadow: 0 0 8px rgba(0, 0, 0, .3);
+    border: solid 10px #fff;
+    margin: 0 15px;
+}
